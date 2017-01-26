@@ -12,4 +12,60 @@
  *
  *= require_tree .
  *= require_self
+ *= require foundation_and_overrides
+
  */
+#buttonOpen {
+ background-color: limegreen;
+ border: solid black 2px;
+ margin: .5%;
+ color: black;
+ padding: .6vw .9vw;
+}
+
+#buttonClose {
+ background-color: black;
+ border: solid black 2px;
+ margin: .5%;
+ color: white;
+ font-style: normal;
+ padding: .6vw .9vw;
+}
+
+#app {
+ font-family: monospace;
+ font-size: 2vw;
+}
+
+body {
+ background-color: #CCEEF0;
+}
+
+#question {
+ margin: 2%;
+ padding-bottom: 5%;
+ border-bottom: 2px solid gray;
+}
+
+#name {
+ text-align: center;
+ font-size: 5vw;
+ margin-bottom: 0;
+ font-family: "Comic Sans MS";
+ color: #68D8E1;
+}
+
+ul {
+ margin-top: 0;
+}
+
+#space {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 1vw;
+}
+
+#pic {
+  height: 5vw;
+  width: 5vw;
+}
