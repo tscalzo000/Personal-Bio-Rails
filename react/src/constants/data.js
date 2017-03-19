@@ -7,7 +7,7 @@ const data = [
   {
     id: 2,
     question: 'What experience does Tori have?',
-    answer: "I am currently working on a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL."
+    answer: "I just finished a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL."
   },
   {
     id: 3,
