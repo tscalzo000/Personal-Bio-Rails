@@ -7,7 +7,7 @@ const data = [
   {
     id: 2,
     question: 'What experience does Tori have?',
-    answer: "I just finished a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL."
+    answer: "I just finished a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL. I have also been learning C through Harvard edX's CS50 course as well as Python through lambdaschool's online mini-bootcamp."
   },
   {
     id: 3,
@@ -17,7 +17,7 @@ const data = [
   {
     id: 4,
     question: "Where can I see more of Tori's projects?",
-    answer: "Please go to Github and check out my profile: github.com/tscalzo000"
+    answer: "Please go to Github and check out my profile: github.com/tscalzo000. My personal project, The Local Tavern, can be found at github.com/tscalzo00/the-local-tavern and the-local-tavern.herokuapp.com. Python projects can be found at github.com/tscalzo000/python-projects and CS50 material can be found at github.com/tscalzo000/C-projects."
   },
   {
     id: 5,
